@@ -24,6 +24,10 @@ Finalmente lo que vamos a hacer es tomar cada una de las detecciones en cada ima
 
 # Conteo de objetos 
 
+Detecciones en imagen  **`7.working-lunch.jpg`** en el Dataframe 
+
+![Screenshot (222)](https://user-images.githubusercontent.com/45697319/85181132-cde6cb00-b24a-11ea-9fae-6d64cc9171fe.png)
+
 Para este paso ya debemos tener nuestro `archivo txt` ya creado en el paso anterior y luego editamos la linea que corresponde al nombre del archivo en el **`Counting_Objects_Images.py`** , finalmente ejecutamos: 
 
 * `python Counting_Objects_Images.py`
