@@ -1,3 +1,9 @@
+# Online Presence
+
+[![LinkedIn](https://img.shields.io/badge/-Go%20To%20LinkedIn-3b5998)](https://www.linkedin.com/in/alexanderbolano)
+[![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-ff7c55)](https://stackoverflow.com/story/alexbonella)
+[![Twitter](https://img.shields.io/badge/-@Alex_bonella-1DA1F2)](https://twitter.com/Alex_bonella)
+
 # Counting_Yolov3
 
 En el siguiente repo se mostrara como realizar el conteo de objetos detectados en imagenes haciendo uso de Yolov3 
